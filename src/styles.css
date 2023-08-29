@@ -6,6 +6,7 @@ body {
   height: 100vh;
   font-family: "Nunito", sans-serif;
   background-blend-mode: darken;
+  border-radius: 30px;
 }
 form {
   padding: 20px;
@@ -28,7 +29,7 @@ form {
 }
 
 .currentTemp h6 {
-  color: #ffffff;
+  color: #e1d6d6;
 }
 
 .currentCity {
@@ -36,6 +37,7 @@ form {
   margin-top: 20px;
   margin-right: 0;
   text-align: right;
+  color: #ffffff;
 }
 
 .currentCity h6 {
@@ -56,6 +58,9 @@ h1 {
 }
 
 h4 {
+  color: #ffffff;
+}
+ul {
   color: #ffffff;
 }
 
